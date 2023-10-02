@@ -29,11 +29,11 @@ body {
     background-image: url(../media/ba1.jpg);
     background-color: rgba(0, 0, 0, 0.7); /* Fondo negro con transparencia del 50% */
     background-blend-mode: multiply; /* Mezcla de multiplicación para aplicar el efecto de atenuación */
-    background-position: center;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 85vh;
-    padding: 90px;
+    padding: 0; /* Elimina el espacio de relleno */
     letter-spacing: 2px;
 }
 footer{
