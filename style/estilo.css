@@ -34,6 +34,7 @@ body {
     height: 85vh;
     padding: 90px;
     letter-spacing: 2px;
+    text-decoration: none;
 }
 footer{
     background: linear-gradient(to right, #1b3743, #1E5371); /* Azul a Celeste */
