@@ -3,10 +3,11 @@
     width: 100%;
     height: auto;
 }
-
 body {
     font-family: 'Architects Daughter', cursive;
     font-family: 'Titillium Web', sans-serif;
+    width: 100%;
+    overflow: auto;
 }
 
 .footer-links a {
@@ -44,9 +45,3 @@ footer{
     margin-right: 10px;
 }
 
-body {
-    font-family: 'Architects Daughter', cursive;
-    font-family: 'Titillium Web', sans-serif;
-    width: 100%;
-    overflow: auto;
-}
