@@ -1,0 +1,44 @@
+.max-width-500 {
+    max-width: 700px;
+    width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.footer-links a {
+    text-decoration: none;
+}
+
+
+.card-img-top {
+    border: none;
+}
+
+#text-d1d {
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.fondo-img {
+    background-image: url(../media/ba1.jpg);
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo negro con transparencia del 50% */
+    background-blend-mode: multiply; /* Mezcla de multiplicación para aplicar el efecto de atenuación */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+    padding: 90px;
+    letter-spacing: 2px;
+}
+footer{
+    background: linear-gradient(to right, #1b3743, #1E5371); /* Azul a Celeste */
+} 
+#confbsas .d-flex.justify-content-end button {
+    margin-right: 10px;
+}
